@@ -182,6 +182,11 @@ data = np.random.randint(low = 1, high = 100, size = (10,10))
 hm=sns.heatmap(data=data,annot=True)
 ```
 ![image](https://github.com/Sriram8452/EXNO-6-DS/assets/118708032/5eba9f52-3c11-4640-b78f-451463d24415)
+
+
+
+
+
 ```
 hm=sns.heatmap(data=data)
 ```
